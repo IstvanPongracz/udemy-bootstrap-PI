@@ -15,4 +15,16 @@ color: #EA1C2C;
 #mainNavbar .navbar-brand {
     color: #EA1C2C;
 }
-
+#headingGroup span {
+    color: #EA1C2C;
+}
+#headingGroup h1 {
+    font-weight: 100;
+    size: 4rem;
+}
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        size: 3rem;
+    }
+}
